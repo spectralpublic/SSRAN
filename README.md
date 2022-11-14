@@ -5,7 +5,7 @@
 
 ### 1. Introduction
 
-This is the reserch code of the IEEE Transactions on Geoscience and Remote Sensing 2022 paper, which is currently under review.
+This is the reserch code of the IEEE Transactions on Geoscience and Remote Sensing 2022 paper.
 
 [X. Zheng, W. Chen and X. Lu, "Spectral Super-Resolution of Multispectral Images Using Spatial–Spectral Residual Attention Network," IEEE Transactions on Geoscience and Remote Sensing, vol. 60, 2022.](https://ieeexplore.ieee.org/document/9519844)
 
